@@ -1,0 +1,12 @@
+type History @entity {
+  id: ID!
+  spender: Bytes!
+  owner: Bytes!
+  asset: Bytes!
+  value: BigInt!
+}
+
+type Allowance @entity {
+  id: ID!
+  value: BigInt!
+}
