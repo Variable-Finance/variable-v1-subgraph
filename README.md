@@ -1,5 +1,7 @@
 # Variable Finance Subgraphs
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://raw.githubusercontent.com/KnowYourDeFi/knowyourdefi.github.io/master/LICENSE)
+
 This repository contains the subgraphs of the Variable Finance eco-system. Subgraphs are prelminarily used for the purpose of making querying on blockchain much more faster & quicker. This is a project for HackMoney 2021.
 
 ### Table of contents
